@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Task</string>
+    <string name="status_task_todo">A Fazer</string>
+    <string name="status_task_doing">Fazendo</string>
+    <string name="status_task_done">Concluído</string>
+    <string name="student_name">Aluno: Helio</string>
+</resources>
